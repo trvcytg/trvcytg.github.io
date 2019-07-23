@@ -5,3 +5,7 @@ body {
 p {
     color: white
 }
+p:hover {
+    background: white ;
+    color: black
+}
